@@ -1,0 +1,5 @@
+ruaccent==1.5.8.3
+stressonnx==0.0.2
+onnxruntime==1.31.0
+numpy==2.4.6
+pytest==9.1.1

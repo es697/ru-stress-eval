@@ -1,0 +1,19 @@
+# downloaded models (RUAccent dictionaries + ONNX networks) are ~500 MB and are
+# fetched on first run, never committed
+models_ru/
+models/
+
+# python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# run artifacts
+out/
+*.log
+
+# macos
+.DS_Store
